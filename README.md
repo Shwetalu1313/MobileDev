@@ -10,7 +10,7 @@
 	<li>
 		<h2>01</h2>
 		<h3>Calculator</h3>
-		<p>
+		<p style="color:red">
 			Perform two operations calculations with ease. 🧮
 		</p>
 	</li>
